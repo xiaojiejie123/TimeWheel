@@ -1,0 +1,21 @@
+#java maven
+*.class
+*.lst
+**/target/
+/target/
+
+#idea
+/.idea/
+**/.idea/
+*.iml
+
+#eclipse
+/.settings/
+**/.settings
+.project
+.classpath
+
+# Log file
+*.log
+
+
